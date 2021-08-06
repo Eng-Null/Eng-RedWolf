@@ -32,10 +32,13 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eng-RedWolf&hide=contribs,prs&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-RedWolf&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
-
+<a>
+ <img align="center" src="https://github-readme-stats-engredwolf.vercel.app/api?username=Eng-RedWolf&hide=contribs,prs&theme=calm&count_private=true" />
+</a>
+<a>
+ <img align="center" src="https://github-readme-stats-engredwolf.vercel.app/api/top-langs/?username=Eng-RedWolf&layout=compact&theme=calm&count_private=true"/>
+</a>
+  
 </details>
 
 
