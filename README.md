@@ -36,7 +36,7 @@
  <img align="center" src="https://github-readme-stats-engredwolf.vercel.app/api?username=Eng-RedWolf&hide=contribs,prs&theme=calm&count_private=true" />
 </a>
 <a>
- <img align="center" src="https://github-readme-stats-engredwolf.vercel.app/api/top-langs/?username=Eng-RedWolf&layout=compact&theme=calm&count_private=true"/>
+ <img align="center" src="https://github-readme-stats-engredwolf.vercel.app/api/top-langs?username=Eng-RedWolf&exclude_repo=github-readme-stats&theme=calm"/>
 </a>
   
 </details>
