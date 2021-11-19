@@ -1,6 +1,6 @@
 ### Hello there, I'm Hussien Hayder - aka RedWolf 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Eng_RedWolf?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Eng_RedWolf?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Eng_RedWolf?s=09)
 
 ## I'm a Master's degree student, Gamer and Developer!!
 
